@@ -12,8 +12,6 @@ A templated Binary Search Tree (BST) class with additional features such as pare
 
 ## Files
 - `bst.hpp`: Contains the definitions and implementations of the BST class member functions.
-- `unit_tests.hpp`: Contains unit tests to verify the implementation.
-- `bst.cpp`: A skeleton file for running tests (modifiable).
 
 ## Setup and Running the Tests
 1. **Clone the Repository**:
